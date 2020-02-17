@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7d5a16a4-c474-401c-afc7-45c2f04f9a52" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XurSFcffk4yh5NahyJyvWtBbtX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Persona" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d5a16a4-c474-401c-afc7-45c2f04f9a52" name="Default Changelist" comment="" />
+      <created>1581906819159</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581906819159</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="453" y="97" key="#com.intellij.ide.util.MemberChooser" timestamp="1581909737133">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="453" y="97" key="#com.intellij.ide.util.MemberChooser/0.23.1280.709@0.23.1280.709" timestamp="1581909737133" />
+    <state width="1218" height="164" key="GridCell.Tab.0.bottom" timestamp="1581911145788">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1218" height="164" key="GridCell.Tab.0.bottom/0.23.1280.709@0.23.1280.709" timestamp="1581911145788" />
+    <state width="1218" height="164" key="GridCell.Tab.0.center" timestamp="1581911145788">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1218" height="164" key="GridCell.Tab.0.center/0.23.1280.709@0.23.1280.709" timestamp="1581911145788" />
+    <state width="1218" height="164" key="GridCell.Tab.0.left" timestamp="1581911145787">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1218" height="164" key="GridCell.Tab.0.left/0.23.1280.709@0.23.1280.709" timestamp="1581911145787" />
+    <state width="1218" height="164" key="GridCell.Tab.0.right" timestamp="1581911145788">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1218" height="164" key="GridCell.Tab.0.right/0.23.1280.709@0.23.1280.709" timestamp="1581911145788" />
+    <state x="319" y="213" key="com.intellij.ide.util.TipDialog" timestamp="1581906827267">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="319" y="213" key="com.intellij.ide.util.TipDialog/0.23.1280.709@0.23.1280.709" timestamp="1581906827267" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1581909730449">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.23.1280.709@0.23.1280.709" timestamp="1581909730449" />
+    <state x="305" y="56" width="670" height="676" key="search.everywhere.popup" timestamp="1581910732353">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="305" y="56" width="670" height="676" key="search.everywhere.popup/0.23.1280.709@0.23.1280.709" timestamp="1581910732353" />
+  </component>
+</project>
